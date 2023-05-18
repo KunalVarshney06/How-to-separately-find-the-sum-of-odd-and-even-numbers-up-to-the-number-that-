@@ -1,0 +1,1 @@
+# How-to-separately-find-the-sum-of-odd-and-even-numbers-up-to-the-number-that-
